@@ -55,7 +55,7 @@ h1 {
 }
 
 .text-1 {
-	font-family: 500;
+	font-weight: 500;
 	font-size: 20px;
 	text-align: center;
 	color: rgb(112, 112, 112);
@@ -65,14 +65,14 @@ h1 {
 
 h2 {
 	font-size: 34px;
-	font-family: 700;
+	font-weight: 700;
 	margin: 0px 0px 20px 0px;
 	color: rgb(78, 78, 78);
 }
 
 .text-2 {
 	font-size: 18px;
-	font-family: 300;
+	font-weight: 300;
 	color: rgb(138, 138, 138);
 	max-width: 508px;
 	line-height: 28px;
@@ -81,13 +81,13 @@ h2 {
 
 .text-3 {
 	font-size: 18px;
-	font-family: 700;
+	font-weight: 700;
 	margin: 0px 0px 5px 0px;
 }
 
 .text-4 {
 	font-size: 18px;
-	font-family: 300;
+	font-weight: 300;
 	margin: 0px 0px 5px 0px;
 	color: rgb(151, 151, 151);
 	margin-bottom: 20px;
